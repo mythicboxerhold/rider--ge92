@@ -1,4 +1,4 @@
-# 
+# advanced JetBrains Rider for PC | JetBrains Rider for Windows Snippet | code-analysis + build-automation is the best JetBrains Rider for PC | JetBrains Rider for Windows snippet,
 
 
 
